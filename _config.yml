@@ -1,3 +1,12 @@
+title: OLMU
+# Site owner
+owner:
+  name: OLMU
+  email: olmu@fmf.uni-lj.si
+description: 
+baseurl: "/olmu"
+url: https://ul-fmf.github.io
+
 collections:
   authors:
     output: true
