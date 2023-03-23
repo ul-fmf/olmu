@@ -1,0 +1,50 @@
+.member-profile-links {
+    list-style-type: none;
+}
+.member-profile-links li {
+    margin: 0.4em 0em;
+}
+
+ul.inline-list {
+    display: inline;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+ul.inline-list li {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+ul.inline-list li:after {
+    content: ", ";
+}
+ul.inline-list li:last-child:after {
+    content: "";
+}
+
+.icon-links i {
+    color: $color-secondary;
+    width: 1.3em;
+}
+
+.activities-list dt {
+    font-style: italic;
+    color: $color-primary
+}
+.activities-list dd {
+    margin: 0.5rem 0 2rem 0;
+    margin-inline-start: 0rem;
+}
+.activities-list dd ul {
+    margin: 0.3em 0;
+}
+.activities-list dd li {
+    font-size: 100%;
+}
+
+.project-info span {
+    color: $color-secondary;
+    font-style: italic;
+    margin-right: 0.5em;
+}

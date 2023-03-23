@@ -1,0 +1,19 @@
+<header id="header">
+	<div id="site_title">
+		<h1><a href="{{ "/" | absolute_url }}">
+			<!-- {{site.title}} -->
+			<strong>Odprti laboratorij za matematiko v uporabi</strong><br>
+		</a></h1>
+		{% if site.data.settings.subtitle.active %}
+		<h2>
+			{{ site.data.settings.subtitle.text }}
+		</h2>
+		{% endif %}
+	</div>
+</header>
+
+{% if site.data.settings.nav.pages.active %}
+<nav class="pages">
+	{%- include pages.html -%}
+</nav>
+{% endif %}

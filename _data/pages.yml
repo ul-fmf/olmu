@@ -1,0 +1,6 @@
+pages:
+  - {name: 'Domov', url: '/'}
+  - {name: 'Sodelovanja', url: '/sodelovanja.html'}
+  - {name: 'Interdisciplinarni članki', url: '/clanki.html'}
+  - {name: 'Prakse', url: '/prakse.html'}
+  - {name: 'Kontakt', url: '/kontakt.html'}
