@@ -24,10 +24,10 @@ html {
     margin: 0;
     margin-top: 1em;
     width: 900px;
-    height: 250px;
+    height: 320px;
     background-image: url('../img/header.png');
     background-color: #ba232b;
-    background-size: 60%;
+    background-size: 42%;
     background-position: top left;
     background-repeat: no-repeat;
   }
@@ -400,7 +400,7 @@ html {
     text-align: right;
     padding: 0 2em;
     max-width: 50%;
-    min-width: ;
+    min-width: 1%;
     height: 250px;
     background-color: #ba232b;
 }
