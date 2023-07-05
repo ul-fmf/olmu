@@ -27,6 +27,8 @@ $$
 \sum_{n = 1}^\infty n = -\frac{1}{12},
 $$
 
+\[ 2 + 2 = 4\]
+
 a tudi to se da.
 
 
