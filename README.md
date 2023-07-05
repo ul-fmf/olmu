@@ -1,47 +1,51 @@
 
 
-## How to edit the web page content
+## Meta
 
-This web site uses [Jekyll](https://jekyllrb.com) for generation of web pages from Markdown source, 
-and [YAMT theme](http://jekyllthemes.org/themes/jekyll-yamt/) as lipstick. 
-The pages are served via [GitHub pages](https://guides.github.com/features/pages/) 
-at [https://ul-fmf.github.io/olmu/](https://ul-fmf.github.io/olmu/).
+Hvala [ul-fmf/mathematics-in-ljubljana](https://github.com/ul-fmf/mathematics-in-ljubljana/).
 
-The pages are written in the Markdown format and automatically translated to HTML by
-GitHub. Simply edit the Markdown files and use Git to push the changes back to the server.
-The website always shows the contents of the `main` branch of the GitHub repository.
+## Format spletne strani
 
-You can **edit the `.md` files in GitHub's online editor** (just navigate to the file you want to edit), 
-or locally on your machine (if you are comfortable with `git`):
+Uporabljamo [Jekyll](https://jekyllrb.com) za generiranje spletnih strain iz `Markdown` datotek.
+To je format, v katerem je napisano tudi to besedilo, ki ga berete.
+Več informacij: [tukaj]((https://guides.github.com/features/mastering-markdown/)).
 
-1. `git pull`
-2. Make changes to `.md` files (see below)
-3. `git status` to see what files you changed
-4. `git add XYZ.md` for every file you changed and you wish to commit
-5. `git push`
-6. Go to the [project web page](https://imfm-si.github.io/cimm-site/), make sure to reload the page.
+Uporabljamo [YAMT theme](http://jekyllthemes.org/themes/jekyll-yamt/) kot šminko (ang. _lipstick_).
+Kot strežnik uporabljamo [GitHub pages](https://guides.github.com/features/pages/).
 
-The `.md` files are Markdown files, here is a [quick Markdown reference](https://guides.github.com/features/mastering-markdown/).
+Povezava do spletne strani: [https://ul-fmf.github.io/olmu/](https://ul-fmf.github.io/olmu/).
 
-### How to generate the web page locally
+## Dodajanje in urejanje vsebine
 
-You need not generate the pages before you publish them, but it might be a good idea to do
-so and verify that the pages are OK, especially if you make significant changes.
-If you just make a small content edit (such as editing your profile), it is enough to edit the corresponding markdown file in the online editor.
+Lahko to naredite tu (na githubu) ali pa lokalno. V mapi `_posts` dodajte novo datoteko ali pa uredite obstoječo.
 
-To generate web pages locally for preview, you need [Jekyll](https://jekyllrb.com), which
-needs a million subsidiary Ruby packages. Rather than trying to install them with your
-bare hands, you should just try
+Datoteke morajo biti oblike `yyyy-mm-dd-naslov.md`, kjer je `y` števka v letu, `m` števka v mesecu in `d` števka v dnevu.
+Primeri datotek (tudi z večbesednimi naslovi) so že v mapi.
 
-    bundle install
+Datoteke uredite v skladu s navodili v testnih datotekah (npr. testnim člankom, testnim sodelovanjem ...).
 
-With a bit of luck you've got Ruby installed so this command will do the right thing. The
-`bundle` command is part of the Ruby [Bundler](https://bundler.io) package manager. On a
-Mac it is available through [Homebrew](https://brew.sh).  On Linux it is available through
-your package manager, e.g. on Debian/Ubuntu `sudo apt install ruby-bundler ruby-dev`.
 
-Then to generate and serve the pages locally, run
+## Lokalno razvijanje
 
-    bundle exec jekyll serve
+Razvijanje poteka na osebnem računalniku (namesto na githubu) precej hitreje in skrito pred očmi javnosti.
+Ko klonirate repozitorij in namestite [Jekyll](https://jekyllrb.com) (navodila spodaj), postopate tako v ukazni vrstici:
 
-The pages will appear at [http://127.0.0.1:4000/](http://127.0.0.1:4000/).
+```
+> bundle istall
+> bundle exec jekyll build
+> bundle exec jekyll serve
+```
+
+Pojdite na naslov, ki vam ga sporoči Jekyll - verjetno bo to [http://127.0.0.1:4000/](http://127.0.0.1:4000/).
+
+## Namestitev Jekylla
+
+Uradna navodila se nehajajo [tukaj](https://jekyllrb.com/docs/installation/).
+Če ne uporabljate Windowsov, jim sledite.
+
+Če jih, je najlažje 
+- namestiti [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install)
+oz. [virtualko](https://www.virtualbox.org/), s čimer na računalnik dobite Linux (v neki obliki)
+- slediti uradnim navodilom za namestitev Jekylla za Linux
+
+Če tega ne morete, poskusite slediti navodilom za Windows.
