@@ -8,7 +8,7 @@ Hvala [ul-fmf/mathematics-in-ljubljana](https://github.com/ul-fmf/mathematics-in
 
 Uporabljamo [Jekyll](https://jekyllrb.com) za generiranje spletnih strain iz `Markdown` datotek.
 To je format, v katerem je napisano tudi to besedilo, ki ga berete.
-Več informacij: [tukaj]((https://guides.github.com/features/mastering-markdown/)).
+Več informacij: [tukaj](https://guides.github.com/features/mastering-markdown/).
 
 Uporabljamo [YAMT theme](http://jekyllthemes.org/themes/jekyll-yamt/) kot šminko (ang. _lipstick_).
 Kot strežnik uporabljamo [GitHub pages](https://guides.github.com/features/pages/).
