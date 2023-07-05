@@ -1,6 +1,6 @@
 ---
 title: Typography
-layout: post
+layout: page
 categories: [Typography, Markdown]
 image: /assets/img/rose.jpg
 description: "Basic typography and styling for your posts."

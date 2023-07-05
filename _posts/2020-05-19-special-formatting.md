@@ -1,7 +1,7 @@
 ---
 title: Special Formatting
-layout: post
-categories: [Tips, Markdown, Typography]
+layout: page
+categories: [Tips, Markdown, Typography, Sodelovanje]
 image: /assets/img/forest-snow.jpg
 description: "A bunch of tips on how to format your text."
 customexcerpt: "Learn and discover the special features of YAMT."

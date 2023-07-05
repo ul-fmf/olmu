@@ -1,7 +1,7 @@
 ---
 title: This is YAMT!
-layout: post
-categories: [Typography, Markdown, Tips]
+layout: page
+categories: [Sodelovanje, Typography, Markdown, Tips]
 image: /assets/img/logo.jpg
 description: "Welcome to YAMT - Yet Another Minimal Theme."
 ---

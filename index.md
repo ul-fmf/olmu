@@ -6,20 +6,31 @@ title: Home
 
 # Odprti laboratorij za matematiko v uporabi
 
-Tole je na kratko o nas. Preverimo _ležeče_ in **odebeljeno**, morda ~prečrtano~ ali ~~prečrtano~~ besedilo.
+Vi imate probleme. Mi jih rešimo.
 
-Kaj pa $2 + 2 = 4?$ ali pa $$2 + \frac{2}{\frac{3}{4}}$$
+## Kakšne probleme?
 
+- **optimizacija**: je vaša rešitev neoptimalna?
+- **strojno učenje**:  imate preveč podatkov, pa iz njih ne morete izvleči pravih informacij?
+- **dokaz pravilnosti**: je treba preveriti, da program deluje pravilno?
+- **matematika na splošno**: je treba kaj izračunati, zmodelirati, ...?
+
+Brez težav dokažemo, da je
 
 $$
-\sum_{i = 1}^\infty i = -\frac{1}{12}
+\sum_{n = 1}^\infty n = \infty
 $$
 
-Morebiti celo `int [] x = {1, 2, 3}` ali
+Nekaj več časa nam vzame razlaga, da je
 
-```
-def f(n):
-    return n if n > 3 else f(n + 2)
-```
+$$
+\sum_{n = 1}^\infty n = -\frac{1}{12},
+$$
 
+a tudi to se da.
+
+
+## Možnosti sodelovanja
+
+...
 

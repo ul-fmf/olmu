@@ -3,10 +3,16 @@ layout: page
 title: Interdisciplinarni članki
 ---
 
-# Seznamček
+# {{ page.title }}
 
-Z zanko jih bomo prikazali
+Nekaj zadnjih zanimivih člankov:
 
-- a
-- b
-- c
+{% for kandidat in site.categories %}
+  {% if kandidat[0] == "clanek" %}
+    {% for dejanski in kandidat[1] %}
+- [{{ dejanski.title}}]({{ site.baseurl }}{{ dejanski.url }})
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+

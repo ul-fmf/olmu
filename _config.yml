@@ -32,6 +32,13 @@ locale: en
 # Build settings
 # theme: jekyll-yamt
 
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "page"
+
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
@@ -39,6 +46,11 @@ plugins:
 sass:
   sass_dir: _sass
   style: compressed
+
+markdown: kramdown
+
+permalink: /:categories/:year/:month/:day/:title.html
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

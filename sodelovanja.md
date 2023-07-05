@@ -5,4 +5,11 @@ title: Sodelovanja
 
 # Sodelovanja
 
-Tule so našteta vsa sodelovanja.
+
+{% for kandidat in site.categories %}
+  {% if kandidat[0] == "sodelovanje" %}
+    {% for dejanski in kandidat[1] %}
+- [{{ dejanski.title}}]({{ site.baseurl }}{{ dejanski.url }})
+    {% endfor %}
+  {% endif %}
+{% endfor %}
