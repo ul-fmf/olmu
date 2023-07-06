@@ -51,6 +51,11 @@ markdown: kramdown
 
 permalink: /:categories/:year/:month/:day/:title.html
 
+kramdown:
+  input: GFM
+  output: html
+  math_engine: mathjax
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
