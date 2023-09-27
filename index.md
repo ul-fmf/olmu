@@ -21,5 +21,3 @@ Vi imate probleme. Mi jih rešimo.
 - Diplomske in magistrske naloge,
 - Konkretnejši projetki, ki zahtevajo poglobljeno analizo,
 - Raziskovalna sodelovanja.
-
-TEST 2
