@@ -6,7 +6,7 @@ title: Home
 
 # Odprti laboratorij za matematiko v uporabi
 
-Vi imate probleme. Mi jih rešimo.
+Vi imate probleme. Mi jih rešimo. 
 
 ## Kakšne probleme?
 
@@ -21,3 +21,5 @@ Vi imate probleme. Mi jih rešimo.
 - Diplomske in magistrske naloge,
 - Konkretnejši projetki, ki zahtevajo poglobljeno analizo,
 - Raziskovalna sodelovanja.
+
+TEST
