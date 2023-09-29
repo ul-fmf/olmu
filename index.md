@@ -19,7 +19,7 @@ Vi imate probleme. Mi vam jih pomagamo rešiti.
 ## Možnosti sodelovanja
 - Konkretnejši projekti, ki zahtevajo poglobljeno analizo
 - Raziskovalna sodelovanja
-- Diplomske in magistrske naloge,
+- Diplomske in magistrske naloge
 - Študentski projekti
 
 
