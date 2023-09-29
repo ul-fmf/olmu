@@ -17,8 +17,10 @@ Vi imate probleme. Mi vam jih pomagamo rešiti.
 - **matematika na splošno**: je treba kaj izračunati, zmodelirati, ...?
 
 ## Možnosti sodelovanja
-
 - Konkretnejši projekti, ki zahtevajo poglobljeno analizo
 - Raziskovalna sodelovanja
 - Diplomske in magistrske naloge,
 - Študentski projekti
+
+
+
