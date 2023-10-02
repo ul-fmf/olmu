@@ -14,8 +14,8 @@ title: Kontakt
    <p>Telefon: +386 41 963 901, +386 1 4766 667 </p>
    <p>Povezave: <a href="http://www.fmf.uni-lj.si/~knez/">spletna stran</a>, <a href="https://urnik.fmf.uni-lj.si/oseba/25/">urnik</a>
 
-### Pomočnica vodje: asist. Eva Šraj
-
+<strong>Pomočnica vodje: asist. Eva Šraj </strong>
+ 
    <p>E-pošta: <a href="mailto:eva.sraj@fmf.uni-lj.si">eva.sraj@fmf.uni-lj.si</a></p>    
    <!--<p>Telefon: DODATI </p>
    <p>Povezave: <a href="http://www.fmf.uni-lj.si/~knez/">spletna stran</a>, <a href="https://urnik.fmf.uni-lj.si/oseba/25/">urnik</a>-->
