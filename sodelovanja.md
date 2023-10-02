@@ -10,7 +10,7 @@ Na Oddelku za matematiko zaposlujemo več kot 80 strokovnjakov iz najrazličnej�
 Oddelek za matematiko Fakultete za matematiko in fiziko že vrsto let sodeluje s podjetji. Preko OLMU želimo krog sodelovanj še razširiti. 
 
 
-Matematiki se vedno razveselimo novih problemov in izzivov – kontaktirajte nas in nam predstavite vaše (seveda matematične). 
+**Matematiki se vedno razveselimo novih problemov in izzivov – kontaktirajte nas in nam predstavite vaše (seveda matematične).** 
  
 
 <!--

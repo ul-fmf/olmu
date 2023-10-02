@@ -1,6 +1,6 @@
 pages:
   - {name: 'Domov', url: '/'}
-  - {name: 'Sodelovanja', url: '/sodelovanja.html'}
-  - {name: 'Interdisciplinarni članki', url: '/clanki.html'}
-  - {name: 'Prakse', url: '/prakse.html'}
+  - {name: 'Za podjetja', url: '/sodelovanja.html'}
+  - {name: 'Za študente', url: '/prakse.html'}
+  - {name: 'Raziskovalna sodelovanja', url: '/clanki.html'}
   - {name: 'Kontakt', url: '/kontakt.html'}
